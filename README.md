@@ -19,6 +19,6 @@ In order of increasing complexity, I tested 5 different architectures:
   - 0.9993 train accuracy after 3 epochs
   - 0.9927 accuracy on the holdout set
 
-Data augmentation did not improve performance, but the deep convolutional neural network with batch normalization performed well.
+Data augmentation did not improve performance, but batch normalization achieved 99.27% accuracy, which is in the top 25% of all submissions (793/3166). 
 
-The best solution achieved 99.27% accuracy, which is in the top 25% of all submissions (793/3166). Ensembling together multiple CNNs, or increasing the number of epochs, might improve accuracy even further. 
+Increasing the number of epochs or joining together mutiple CNNs might improve accuracy further.
