@@ -4,7 +4,7 @@ This project showcases a deep learning solution to the 'Digit Recognizer' Kaggle
 
 I used [Poonam Ligade's Kaggle notebook](https://www.kaggle.com/poonaml/deep-neural-network-keras-way) as a starting point. 
 
-Image pre-processing involved centering and scaling pixels to unit variance. For activation functions, optimizers, backpropagation schemes, and other technical details, my code is rich in comments.
+Image pre-processing involved centering and scaling pixels to unit variance. For activation functions, optimizers, and other technical details, I enriched my code with many comments.
 
 In order of increasing complexity, I tested 5 different architectures:
 - a simple fully connected feedforward neural network (single-layer perceptron)
