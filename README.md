@@ -1,6 +1,6 @@
 # Deep_Learning_for_Digit_Recognition
 
-This project showcases an deep learning solution to the 'Digit Recognizer' Kaggle competition using the famous MINST data set. The challenge is a classic computer vision problem with the goal of classifying handwritten digits.
+This project showcases a deep learning solution to the 'Digit Recognizer' Kaggle competition using the famous MINST data set. The challenge is a classic computer vision problem with the goal of classifying handwritten digits.
 
 I used Poonam Ligade's Kaggle notebook as a starting point to study deep learning with Keras. Image pre-processing involved centering and scaling pixels to unit variance.
 
