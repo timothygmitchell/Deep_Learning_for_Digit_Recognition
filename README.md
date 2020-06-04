@@ -4,7 +4,7 @@ This project showcases a deep learning solution to the 'Digit Recognizer' Kaggle
 
 I used Poonam Ligade's Kaggle notebook as a starting point to study deep learning with Keras. Image pre-processing involved centering and scaling pixels to unit variance.
 
-For activation functions and other technical details, the code is rich in comments.
+For activation functions, optimizers, and other technical details, my code is rich in comments.
 
 In order of increasing complexity, I tested 5 different architectures:
 - a simple fully connected feedforward neural network (single-layer perceptron)
