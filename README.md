@@ -2,9 +2,9 @@
 
 This project showcases a deep learning solution to the 'Digit Recognizer' Kaggle competition using the famous MNIST data set. The challenge is a classic computer vision problem with the goal of classifying handwritten digits.
 
-I used [Poonam Ligade's Kaggle notebook](https://www.kaggle.com/poonaml/deep-neural-network-keras-way) as a starting point to study deep learning with Keras. Image pre-processing involved centering and scaling pixels to unit variance.
+I used [Poonam Ligade's Kaggle notebook](https://www.kaggle.com/poonaml/deep-neural-network-keras-way) as a starting point. 
 
-For activation functions, optimizers, and other technical details, my code is rich in comments.
+Image pre-processing involved centering and scaling pixels to unit variance. For activation functions, optimizers, backpropagation schemes, and other technical details, my code is rich in comments.
 
 In order of increasing complexity, I tested 5 different architectures:
 - a simple fully connected feedforward neural network (single-layer perceptron)
