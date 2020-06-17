@@ -341,6 +341,8 @@ tfback._get_available_gpus = _get_available_gpus
 
 # Batch normalization (2015) is a way to normalize the input layer by re-centering and re-scaling.
 # It has been shown to improve speed, performance, stability, and accuracy of hyperparameters.
+# The exact mechanism is debated. It is thought to bring bring back the benefits of normalization 
+# at each layer, perhaps by smoothing and reducing internal covariance shift.
 # By integrating batch normalization with the previous model, we should obtain the best model yet.
 # Accuracy can be further improved by increasing the number of epochs.
 
