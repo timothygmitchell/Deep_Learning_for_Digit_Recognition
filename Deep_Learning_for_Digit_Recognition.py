@@ -11,6 +11,7 @@
 # tensorflow-estimator  2.1.0
 # tensorflow-gpu        2.1.0
 
+# train.csv and test.csv too big for GitHub! go to https://www.kaggle.com/c/digit-recognizer
 import os
 os.chdir('/home/tim/Documents/Python/DigitRecognizer') # your working directory here
 
